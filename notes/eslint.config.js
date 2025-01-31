@@ -33,6 +33,8 @@ export default [
         'warn',
         { allowConstantExport: true },
       ],
+      //ei line ta add korchi 
+      'react/prop-types': 'off',
     },
   },
 ]
