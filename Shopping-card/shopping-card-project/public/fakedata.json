@@ -1,0 +1,56 @@
+[
+    {
+      "item_id": "FC001",
+      "category": "Apparel",
+      "item_name": "Elegant Summer Dress",
+      "brand": "Chic Couture",
+      "description": "A lightweight, floral-patterned dress perfect for summer outings. Made from organic cotton, featuring a flowing silhouette and adjustable straps.",
+      "price": 75.00,
+      "image": "https://i.ibb.co.com/QHnpPHB/377717507-6679-1-378.jpg"
+    },
+    {
+      "item_id": "FC002",
+      "category": "Footwear",
+      "item_name": "Classic Leather Sneakers",
+      "brand": "Urban Walk",
+      "description": "Durable and stylish leather sneakers designed for everyday wear. Features a cushioned insole and rubber sole for maximum comfort.",
+      "price": 55.00,
+      "image": "https://i.ibb.co.com/gZK8Y8Y/https-hypebeast-com-image-2024-01-aries-reebok-classic-leather-sneaker-collaboration-release-info-tw.jpg"
+    },
+    {
+      "item_id": "FC003",
+      "category": "Accessories",
+      "item_name": "Vintage Leather Belt",
+      "brand": "Retro Style",
+      "description": "A classic vintage-style belt made from genuine leather. Perfect for casual or formal outfits with an antique brass buckle.",
+      "price": 30.00,
+      "image": "https://i.ibb.co.com/5sg6f6C/images.jpg"
+    },
+    {
+      "item_id": "FC004",
+      "category": "Apparel",
+      "item_name": "Slim Fit Jeans",
+      "brand": "Denim Co.",
+      "description": "A pair of stylish slim-fit jeans with a modern cut. Made from stretch denim for enhanced comfort and durability.",
+      "price": 45.00,
+      "image": "https://i.ibb.co.com/HPhzLjZ/images-1.jpg"
+    },
+    {
+      "item_id": "FC005",
+      "category": "Bags",
+      "item_name": "Leather Tote Bag",
+      "brand": "Fashion Forward",
+      "description": "A spacious leather tote bag with a minimalist design. Ideal for carrying daily essentials or light shopping.",
+      "price": 120.00,
+      "image": "https://i.ibb.co.com/3hz31kQ/BATE-Shoulder-Bags-Handbags-for-Women-Large-Designer-Ladies-Bag-Purse-Leather-Tote-Bag-Brown-1b5e73e.webp"
+    },
+    {
+      "item_id": "FC006",
+      "category": "Jewelry",
+      "item_name": "Gold Plated Necklace",
+      "brand": "Glamour Jewels",
+      "description": "A delicate gold-plated necklace with an elegant design. Perfect for adding a touch of luxury to any outfit.",
+      "price": 80.00,
+      "image": "https://i.ibb.co.com/t8B7n6Z/FNX1555-XM1-6-2048x.webp"
+    }
+  ]
