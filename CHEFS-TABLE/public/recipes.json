@@ -1,0 +1,72 @@
+[
+  {
+    "recipe_id": "001",
+    "recipe_name": "Spaghetti Carbonara",
+    "short_description": "A classic Italian pasta dish made with eggs, cheese, pancetta, and pepper.",
+    "image_url": "https://i.ibb.co.com/9YgPnnN/FO1-D41-23785-s4x3.jpg",
+    "ingredients": [
+      "200g spaghetti",
+      "100g pancetta",
+      "2 large eggs",
+      "50g Parmesan cheese",
+      "2 cloves of garlic",
+      "Freshly ground black pepper",
+      "Salt"
+    ],
+    "preparation_time": 20,
+    "calories": 400
+  },
+  {
+    "recipe_id": "002",
+    "recipe_name": "Chicken Caesar Salad",
+    "short_description": "A fresh, crisp Caesar salad with grilled chicken, Parmesan, croutons, and Caesar dressing.",
+    "image_url": "https://i.ibb.co.com/yp0QRbB/3186344-9400cb8415144a2db2660cd6762c8cde.jpg",
+    "ingredients": [
+      "2 chicken breasts",
+      "1 romaine lettuce",
+      "50g Parmesan cheese",
+      "100g croutons",
+      "Caesar dressing",
+      "Salt",
+      "Black pepper"
+    ],
+    "preparation_time": 25,
+    "calories": 350
+  },
+  {
+    "recipe_id": "003",
+    "recipe_name": "Vegetable Stir-Fry",
+    "short_description": "A quick and healthy stir-fry with a mix of colorful vegetables and a savory sauce.",
+    "image_url": "https://i.ibb.co.com/h7YJJ5g/Vegetable-Stir-Fry-9.jpg",
+    "ingredients": [
+      "1 red bell pepper",
+      "1 broccoli head",
+      "2 carrots",
+      "1 onion",
+      "100g snow peas",
+      "2 tablespoons soy sauce",
+      "1 tablespoon olive oil",
+      "1 garlic clove"
+    ],
+    "preparation_time": 15,
+    "calories": 180
+  },
+  {
+    "recipe_id": "004",
+    "recipe_name": "Beef Tacos",
+    "short_description": "Flavorful beef tacos with seasoned ground beef, fresh toppings, and tortillas.",
+    "image_url": "https://i.ibb.co.com/pnRCFff/Beef-Tacos.jpg",
+    "ingredients": [
+      "250g ground beef",
+      "8 taco shells",
+      "1 tomato",
+      "50g cheddar cheese",
+      "1 onion",
+      "Lettuce",
+      "Sour cream",
+      "Taco seasoning"
+    ],
+    "preparation_time": 30,
+    "calories": 500
+  }
+]

@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+@import "tailwindcss";
+@plugin "daisyui";
+
+  
+  body{
+    font-family: "Bebas Neue", serif;
+  }
+  
