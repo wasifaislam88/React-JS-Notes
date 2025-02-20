@@ -1,0 +1,153 @@
+[
+    {
+      "id": 1,
+      "name": "Ellyse Perry",
+      "country": "Australia",
+      "image": "https://i.ibb.co.com/6JTLCMrH/download.jpg",
+      "role": "All-rounder",
+      "battingType": "Right-hand bat",
+      "bowlingType": "Right-arm fast",
+      "biddingPrice": "$2.5M"
+    },
+    {
+      "id": 2,
+      "name": "Smriti Mandhana",
+      "country": "India",
+      "image": "https://i.ibb.co.com/Q3fYDyW3/BDH-8701-1200x1200.webp[/img][/url]",
+      "role": "Batsman",
+      "battingType": "Left-hand bat",
+      "bowlingType": "Right-arm off-spin",
+      "biddingPrice": "$2.0M"
+    },
+    {
+      "id": 3,
+      "name": "Meg Lanning",
+      "country": "Australia",
+      "image": "https://i.ibb.co.com/Mym9t5rB/361988-6.webp[/img][/url]",
+      "role": "Batsman",
+      "battingType": "Right-hand bat",
+      "bowlingType": "Right-arm medium",
+      "biddingPrice": "$2.2M"
+    },
+    {
+      "id": 4,
+      "name": "Sophie Devine",
+      "country": "New Zealand",
+      "image": "https://i.ibb.co.com/bgcN4PBx/Smriti-Mandhana-of-Royal-Challengers-Bangalore9-8cc56b6c7e.webp[/img][/url]",
+      "role": "All-rounder",
+      "battingType": "Right-hand bat",
+      "bowlingType": "Right-arm medium",
+      "biddingPrice": "$2.3M"
+    },
+    {
+      "id": 5,
+      "name": "Harmanpreet Kaur",
+      "country": "India",
+      "image": "https://i.ibb.co.com/nK0qxBh/britain-cricket-womens-w-cup-d02a10e6-679f-11e7-95fb-ec6334583ea6.webp[/img][/url]",
+      "role": "All-rounder",
+      "battingType": "Right-hand bat",
+      "bowlingType": "Right-arm off-spin",
+      "biddingPrice": "$2.1M"
+    },
+    {
+      "id": 6,
+      "name": "Heather Knight",
+      "country": "England",
+      "image": "https://i.ibb.co.com/d0rBnWcn/images.jpg[/img][/url]",
+      "role": "All-rounder",
+      "battingType": "Right-hand bat",
+      "bowlingType": "Right-arm off-spin",
+      "biddingPrice": "$1.9M"
+    },
+    {
+      "id": 7,
+      "name": "Shafali Verma",
+      "country": "India",
+      "image": "https://i.ibb.co.com/FLkkgsJk/74545267.webp[/img][/url]",
+      "role": "Batsman",
+      "battingType": "Right-hand bat",
+      "bowlingType": "Right-arm off-spin",
+      "biddingPrice": "$1.8M"
+    },
+    {
+      "id": 8,
+      "name": "Suzie Bates",
+      "country": "New Zealand",
+      "image": "https://i.ibb.co.com/RTLTbP8F/Whats-App-Image-2022-12-09-at-6-52-34-PM.jpg[/img][/url]",
+      "role": "All-rounder",
+      "battingType": "Right-hand bat",
+      "bowlingType": "Right-arm medium",
+      "biddingPrice": "$2.0M"
+    },
+    {
+      "id": 9,
+      "name": "Deepti Sharma",
+      "country": "India",
+      "image": "https://i.ibb.co.com/LDTjQ5RQ/images.jpg[/img][/url]",
+      "role": "All-rounder",
+      "battingType": "Left-hand bat",
+      "bowlingType": "Right-arm off-spin",
+      "biddingPrice": "$1.7M"
+    },
+    {
+      "id": 10,
+      "name": "Natalie Sciver",
+      "country": "England",
+      "image": "https://i.ibb.co.com/HL58wJcQ/images-1.jpg[/img][/url]",
+      "role": "All-rounder",
+      "battingType": "Right-hand bat",
+      "bowlingType": "Right-arm medium",
+      "biddingPrice": "$2.4M"
+    },
+    {
+      "id": 11,
+      "name": "Beth Mooney",
+      "country": "Australia",
+      "image": "https://i.ibb.co.com/C3P35GXP/close-in-indian-womens-cricket-team-are-ladies-who-are-still-waiting-for-elusive-world-cup-ians-colu.jpg[/img][/url]",
+      "role": "Wicketkeeper-Batsman",
+      "battingType": "Left-hand bat",
+      "bowlingType": "None",
+      "biddingPrice": "$1.9M"
+    },
+    {
+      "id": 12,
+      "name": "Alyssa Healy",
+      "country": "Australia",
+      "image": "https://i.ibb.co.com/hRk3p586/Mithali-Dorai-Raj-is-an-amazing-Indian-cricketer-Born-on-Dec-3rd-1982-additionally-the-Test-the-ODI.png[/img][/url]",
+      "role": "Wicketkeeper-Batsman",
+      "battingType": "Right-hand bat",
+      "bowlingType": "None",
+      "biddingPrice": "$2.2M"
+    },
+    {
+      "id": 13,
+      "name": "Jhulan Goswami",
+      "country": "India",
+      "image": "https://i.ibb.co.com/9Hqxm6CG/Sana-Mir-Asia-Award.jpg[/img][/url]",
+      "role": "Bowler",
+      "battingType": "Right-hand bat",
+      "bowlingType": "Right-arm fast",
+      "biddingPrice": "$1.6M"
+    },
+    {
+      "id": 14,
+      "name": "Amelia Kerr",
+      "country": "New Zealand",
+      "image": "https://i.ibb.co.com/zWJsS2wq/images-2.jpg[/img][/url]",
+      "role": "All-rounder",
+      "battingType": "Right-hand bat",
+      "bowlingType": "Right-arm leg-spin",
+      "biddingPrice": "$2.3M"
+    },
+    {
+      "id": 15,
+      "name": "Marizanne Kapp",
+      "country": "South Africa",
+      "image": "https://i.ibb.co.com/TDnq9k28/301480-6.webp[/img][/url]",
+      "role": "All-rounder",
+      "battingType": "Right-hand bat",
+      "bowlingType": "Right-arm fast-medium",
+      "biddingPrice": "$2.1M"
+    }
+  ]
+  
