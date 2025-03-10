@@ -1,0 +1,42 @@
+[
+    {
+      "id": 1,
+      "cover": "./images/1.jpg",
+      "title": "The Quantum Enigma",
+      "author": "Dr. Jane Doe",
+      "author_img": "https://cdn.pixabay.com/photo/2016/09/14/08/26/web-1668927_640.jpg",
+      "posted_date": "2025-01-11",
+      "reading_time": 15,
+      "hashtags": ["QuantumPhysics", "Mystery", "SciFi"]
+    },
+    {
+      "id": 2,
+      "cover": "./images/2.png",
+      "title": "Gourmet Travels",
+      "author": "Chef John Smith",
+      "author_img": "./images/3.png",
+      "posted_date": "2025-01-10",
+      "reading_time": 10,
+      "hashtags": ["Cooking", "Foodie", "Recipes"]
+    },
+    {
+      "id": 3,
+      "cover": "./images/4.jpg",
+      "title": "Lost in the Wilderness",
+      "author": "Emily Roberts",
+      "author_img": "https://images.pexels.com/photos/70361/california-parachutists-skydivers-flares-70361.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "posted_date": "2025-01-09",
+      "reading_time": 20,
+      "hashtags": ["Adventure", "Survival", "Nature"]
+    },
+    {
+      "id": 4,
+      "cover": "https://images.pexels.com/photos/546819/pexels-photo-546819.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "title": "AI Revolution",
+      "author": "Mark A. Tech",
+      "author_img": "./images/profile.png",
+      "posted_date": "2025-01-08",
+      "reading_time": 25,
+      "hashtags": ["AI", "Technology", "Innovation"]
+    }
+  ]

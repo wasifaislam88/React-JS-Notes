@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+
+@import "tailwindcss";
+@plugin "daisyui";
+
+
+*{
+  font-family: "Bebas Neue", serif;
+}
+
+body{
+  font-family: "Bebas Neue", serif;
+}
+
+html{
+  font-family: "Bebas Neue", serif;
+}
+
+
+
+
+/* well done.. shunen... jodi  google font use korte chan taile kivabe krben??? */
+/* wait */
