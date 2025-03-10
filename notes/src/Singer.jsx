@@ -189,11 +189,4 @@ export default Singer;
 
 // export default Singer
 
-// bondhu... inital doubt clear ..
-// next e  eto time ar dewa lagbe na.. 
-// ekhon ghum den...
-// sokal 8 tai call debo for sure je uthechen
-// plz deyen ami kinto maje maje apner call ketede
-// shunen. az ar text na. ekhon dinner kore ghum ... good night allah hafez
-// ar ha kal module dekthte bosben allah hafez achaa
 
