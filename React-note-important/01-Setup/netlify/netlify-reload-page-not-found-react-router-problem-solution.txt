@@ -1,0 +1,9 @@
+Router use korar por reload problem solution->
+
+
+
+public folder er moddhe   _redirects   file create kore->
+_redirects file e akta code likhte hobe. code given below->
+/*    /index.html   200
+
+again build and deploy on netlify

@@ -1,0 +1,10 @@
+.box{
+    border: 4px dotted yellow;
+    margin: 15px;
+    padding: 15px;
+    border-radius: 15px;
+}
+
+.border{
+    border: 5px solid red;
+}

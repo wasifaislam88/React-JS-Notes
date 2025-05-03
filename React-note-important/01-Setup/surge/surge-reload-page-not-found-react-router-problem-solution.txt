@@ -1,0 +1,5 @@
+npm run build
+
+build howar por dist folder e index.html coppy kore same folder e paste kore index(copy).html file rename kore 200.html korte hobe.
+
+next e code e kono change kore npm run build korle again index.html coppy kore 200.html file nite hobe... tar por surge deploy korte hobe.

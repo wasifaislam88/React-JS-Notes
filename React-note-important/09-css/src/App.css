@@ -1,0 +1,14 @@
+body{
+  background-color: rgb(249, 198, 254);
+  text-align: center;
+  width: 50%;
+  margin: 0 auto;
+}
+
+.externalCSS{
+  background-color: red;
+  color: white;
+  text-decoration: underline;
+  border: 5px dotted green;
+  border-radius: 20px;
+}

@@ -1,0 +1,41 @@
+// B10M41.9
+
+Visit -> https://www.npmjs.com/package/prop-types || OR || https://github.com/facebook/prop-types
+
+INSTALL PROCESS-> npm install --save prop-types
+
+IMPORT  PROCESS-> import PropTypes from 'prop-types'; // ES6 // shortcut->> ipt enter // function with proptype both shortcut->>rafcp
+
+USE PROCESS-> export er age proptype declear korte hobe........
+Hello.propTypes = {
+    name: PropTypes.string.isRequired,
+    age: PropTypes.number.isRequired,
+    isMarried: PropTypes.bool.isRequired,
+    friends: PropTypes.array.isRequired,
+    address: PropTypes.object.isRequired,
+    handleClick: PropTypes.func.isRequired
+};
+
+
+
+
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////
+Prop validation na kore jodi just Beginner hisebe eslint theke off korte chai practice er time e tahole
+-> eslint.config.js file e -> 
+->    'react/prop-types': 'off',     //ei line ta add korte hobe
+-> line ta add korar location given below ->
+prop-types validation off from eslint******** add last line
+    rules: {
+      ...js.configs.recommended.rules,
+      ...react.configs.recommended.rules,
+      ...react.configs['jsx-runtime'].rules,
+      ...reactHooks.configs.recommended.rules,
+      'react/jsx-no-target-blank': 'off',
+      'react-refresh/only-export-components': [
+        'warn',
+        { allowConstantExport: true },
+      ],
+      'react/prop-types': 'off',
+    },
+///////////////////////////////////////////////////////////////////////////////////////////////////////

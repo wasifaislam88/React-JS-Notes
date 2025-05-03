@@ -1,0 +1,4 @@
+    // generate fake data from chatgpt
+    // give me five fake data: Id, cover, title, author, author_img, posted_date, reading_time, hashtags. json formate. reading_time as number. cover and img url will be valid url from freepik or unsplash
+    // image upload kore url generate er link   https://imgbb.com/
+    // https://imgbb.com/ website e img upload er por direct link use korte hobe. view link use kora jabe na

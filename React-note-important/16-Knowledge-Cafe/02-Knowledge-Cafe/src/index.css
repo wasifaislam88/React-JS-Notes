@@ -1,0 +1,16 @@
+/* eta src folder er moddhe index.css file */
+/* import google font ta first e korte hobe, that means @tailwind er upore... */
+
+@import url('https://fonts.googleapis.com/css2?family=Exo:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+body{
+    font-family: "Exo", sans-serif;
+}
+

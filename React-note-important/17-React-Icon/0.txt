@@ -1,0 +1,5 @@
+Search react icon on google ->   https://react-icons.github.io/react-icons/
+
+install ->    npm install react-icons --save
+import (every icon has different name. so import er {} er moddhe variable different. follow picture 2)
+use (follow picture 2)
